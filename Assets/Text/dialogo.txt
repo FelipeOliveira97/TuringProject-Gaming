@@ -1,0 +1,168 @@
+Hey hey hey!
+Você mesmo. Você é aquele moleque que está investigando sobre os sabios sumidos?
+Então eu o ajudarei, mas primeiro vamos treinar.
+Para isso me enfrente em uma batalha para te mostrar o que você pode fazer!
+
+Me encontre agora na em frente a cavena cof.. cof..
+
+Olá novamente estou um pouco tonto depois da nossa batalha,
+Continuando o seu treino quero que você entre nessa caverna.
+Nessa caverna há algumas pedras que depois te explicarei o que você deve fazer.
+
+Ei garoto!!! você está me ouvindo?
+Creio que sim. 
+Tenho dois recados o primeiro: que a passagem que você entrou está bloqueada.
+Segunda para sair você tem que empurar as pedras para sair.
+Bem como você já percebeu as pedras tem alguns números, letras e simbolos.
+Para move-los você deve mover as pedras que contenham valores inteiros.
+AH! esqueci que você não sabe o que é valores inteiros.
+Bem vamos lá, valores inteiros ou tipo de dados inteiros, são apenas os valores menores ou maiores que 0, isso incluindo o 0. Ou seja,-5 -4 -3 -2 -1 0 1 2 3 15 30 999... e assim vai.
+Simbolos, letras e números irracionais como o valor de pi não entram em valores inteiros.
+Bem essa foi a breve aula de números inteiros. Espero que você consiga, pois se não você morrerá ai :)
+Te espero aqui fora para o seu proximo treino.
+
+ei primeiro me enfrente lá em cima para que eu possa te dar essa missão.
+
+Eu sabia.... que você iria conseguir.
+Na verdade pensei que você iria morrer mas tudo bem, eu posso me enganar as vezes :P.
+bem me encontre aqui em baixo para a explicação final do seu treino.
+Essa será a sua prova final para que você possa se aventurar pelo mundo. E assim descobrir o que aconteceu com aquelas pessoas.
+Venha aqui em baixo.
+
+Como você pode ver essa é o seu ultimo teste.
+Valos lá.
+Você batalhará comigo novamente.
+Porém dessa vez será uma batalha de 1 soco perdeu, eu te explicarei o porquê.
+Pois isso será uma demonstração do que virá para frente.
+Será dificil pelo fato de que essa será uma simulação de uma batalha final com os grandes adversários que habitam essa terra.
+Por serem adversários trapaceiros e muito, mas MUITO fortes, eles mudam as regras da luta.
+Para derrota-los você deverá responder questões que apareceram a tempo.
+Escolha a resposta certa a tempo e sobreviva mais um dia..
+Escolha a errada e morra..
+Como essa parte do treino é a mais dificil e por ser uma simulação eu farei apenas uma pergunta por isso é 1hit perdeu. 
+Mas não se preocupe eu farei sempre a mesma pergunta então você poderá refazer esse teste quantas vezes forem necessárias.
+Bem vamos lá.
+
+COf.. CoF.. Coff.. Meus.. Parabéns você passou no treinamento coff...
+Agora você está preparado para se aventurar pelo mundo.
+Mas primeiro vá para casa descansar você merece. Pois amanhã começa a sua nova aventura.
+
+Vamos de novo. 
+Você está quase conseguindo.
+
+Ei não fuja da batalha! 
+Me enfrente para que eu possa te treinar
+
+Olá garoto !!!!
+Bem vindo a sua segunda aula e a minha loja
+Agora te ensinarei sobre o comando if e um pouco de valores float!
+Dois pelo preço de um. Hoje o gerente está louco só pode 
+Bem vamos lá 
+O comando if é usado em programação para criar estruturas de decisão. Estruturas de decisão são estruturas no código que escolherão, se uma condição for verdadeira ou falsa.
+Por exemplo:
+SE estiver chovendo eu usarei um guarda-chuva..
+SENÃO eu não usarei o guarda-chuva
+Agora convertendo isso para linguagem de programação seria:
+If (chuva == true)
+{
+usar guarda-chuva
+}
+else 
+{
+não usar guarda-chuva
+}
+Ou seja, o programa verificará se um valor é verdadeiro ou não.
+No nosso caso aqui você somente poderá comprar se... SE você tiver dinheiro. 
+Senão não pode comprar. 
+Ei não me julgue eu também tenho que ganhar a vida.
+
+Bem essa foi a explicação do comando if agora sobre tipos de dados float.
+Bem diferente do int, ou valores inteiros, o float funciona da seguinte maneira
+Os valores float compreendem todos os números reais. 
+Como os números naturais (1,2,3,4...), inteiros (...-3, -2, -1, 0, 1, 2...), números racionais (1/2, 0,2645689...) e os números irracionais como pi.
+Aqui só não entrará é símbolos (?, ,, ><:``+...) e letras (abcsddeodk...).
+Eu te ensinei isso para que você veja que os preços das coisas que não são valores inteiros, mas sim valores "quebrados".
+Para isso o dinheiro que você ganhou na batalha 220,68 moedas, você gastará agora!
+Note que todos os itens aqui são sucatas velhas somente para mostrar para você como funciona o comando if e o que são os valores float.
+Venha até o galpão para começar a comprar.
+
+Muito bem você comprou todos os itens da loja.
+AGORA ME DEVOLVA TODOS!
+Obrigado.
+Você pode ver que, enquanto você tiver dinheiro você compra se não tiver...
+FORA DA MINHA LOJA!!!!
+
+Bom dia garoto tudo bem????
+Espero que sim
+Pois agora você será treinado novamente por mim.
+Mas primeiro me enfrente para que eu te de algo especial dessa vez.
+
+Muito bem garoto. 
+Dessa vez fui esperto e protegi a minha barriga do seu soco.
+Bem tome essas moedas 
+Você recebeu 220,68 moedas.
+Me encontre lá na minha casa.
+
+Ei garoto aqui entre na minha casa
+
+Ei garoto como você teve o seu ensinamento.
+Vamos novamente para o treino de batalha com quiz de novo para ver se você está afiado..
+
+Ei me encontre na caverna hoje o seu treino será aqui.
+
+Entre na caverna que explicarei as coisas
+
+Demorou mas eu mudei aqui um pouco a caverna.
+Dessa vez garoto você terá que coletar o ouro de tolo que aparecem.
+Ou seja você executara o comando for!
+AH, esqueci você também não sabe o que é o for.
+Bem vou explicar.
+O comando for é usado em programação para criar estruturas de repetição. 
+Estruturas de repetição são estruturas no código que repetirão alguma ação até uma quantidade de vezes pré determinada.
+Por exemplo:
+PARA uma determinada ação, quero que repita n vezes
+AÇÃO
+Agora convertendo isso para linguagem de programação seria:
+for (i=0; i<100;i++)
+{
+printf (i);
+}
+Ou seja, o programa repetira a ação até 99. Quando o valor chegar a 100 ele para a execução da linha de codigo
+No caso ele a variavel i começara em 0 (i=0), será verificado o valor de i é menor que 100(i<100), e por 
+ultimo ele acrescenta mais 1 ao i (i++).
+Ou seja repita a ação até pegar todos os itens, para sair.
+
+Meus parabéns você pegou todos os itens agora saia da caverna para de novo a batalha de quiz.
+Você já sabe aonde me encontrar.
+
+Vamos lá
+Bora batalhar!
+
+Ei garoto vá para a minha loja para que eu te ensine uma coisa.
+Será de graça.
+
+Como eu disse esse ensimanemto será de graça pois eu preciso de uma ajuda aqui.
+Bem te ensinarei agora sobre uma estutura de dados que pode ser chamada de
+Vetor,
+Array,
+Variável indexada,
+arranjo ou 
+Matriz.
+Essa é uma estrutura de dados que armazena uma coleção de elementos de tal forma que cada um dos elementos possa ser 
+identificado por, pelo menos, um índice ou uma chave. 
+Essa estrutura de dados também é conhecida como variável indexada, vetor (para arranjos unidimensionais) e matriz (para arranjos bidimensionais). 
+Os arranjos mantêm uma série de elementos de dados, geralmente do mesmo tamanho e tipo de dados. 
+Para acessa-los você deve iniciar a contagem do 0 para frente
+Ou seja se eu quiser acessar um array com 10 itens eu devo começar a contagem em 0, ou seja 
+para acessar o ultimo item do array tenho que colocar o indice dele sendo 9 e não 10.
+Bem dado a aula venha até ao galpão para me ajudar.
+A ideia é o seguinte me ajude a colocar os itens nos seus respectivos grupos.
+
+Muito obrigado.
+E como agradecimento vamos batalhar !
+
+Venha batalhar logo
+
+Bem é esse o seu treinamento por enquanto.
+Agora me encontre daqui alguns mêses...
+Mas agora vá para sua casa descansar.

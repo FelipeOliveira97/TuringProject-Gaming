@@ -1,0 +1,44 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Floresta_mesh_0015.obj'
+
+# Vertices (Count = 16)
+v 0 -208 0
+v -16 -208 0
+v -16 -192 0
+v 0 -192 0
+v -16 -208 0
+v -32 -208 0
+v -32 -192 0
+v -16 -192 0
+v 0 -224 0
+v -16 -224 0
+v -16 -208 0
+v 0 -208 0
+v -16 -224 0
+v -32 -224 0
+v -32 -208 0
+v -16 -208 0
+
+# Texture cooridinates (Count = 9)
+vt 0.1818182 0.35
+vt 0.2121212 0.35
+vt 0.2121212 0.4
+vt 0.1818182 0.4
+vt 0.2424242 0.35
+vt 0.2424242 0.4
+vt 0.1818182 0.3
+vt 0.2121212 0.3
+vt 0.2424242 0.3
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Floresta_mesh_0015
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/2/1 6/5/1 7/6/1 8/3/1
+f 9/7/1 10/8/1 11/2/1 12/1/1
+f 13/8/1 14/9/1 15/5/1 16/2/1
+
